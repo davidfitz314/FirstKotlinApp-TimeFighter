@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstKotlinApp-TimeFighter</string>
+    <string name="tap_me_button_text">Tap Me</string>
+    <string name="time_textview_text">%s seconds</string>
+    <string name="score_textview_text">Score: %s</string>
+    <string name="game_over_message">Times up, Your score was: %s</string>
+</resources>
